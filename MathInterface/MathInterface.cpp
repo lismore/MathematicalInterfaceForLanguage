@@ -3,7 +3,6 @@ public:
   virtual ~getInterface();
   virtual void GetPartsOfGrammar();
 private:
-// define a new enum named Animal
 enum MathInterface
 {
    "CONJUNCTION" = 0,
