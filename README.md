@@ -2,7 +2,7 @@ Mathematical Interface For Language
 ================================
 
 For The Mathematical Interface on Language we assign numbers to the 10 parts of sentence construction 
-in the english language.
+For The english language.
 
 Use this interface to build parse-syntax-grammar enabled software solutions.  
 
