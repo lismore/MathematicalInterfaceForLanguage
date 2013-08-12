@@ -6,21 +6,22 @@ For The english language.
 
 Use this interface to build parse-syntax-grammar enabled software solutions.  
 
-This Mathematical Interface For Language will help those building correct sentence structure communication syntax tools
+This Mathematical Interface For Language will help those building correct sentence structure communication syntax tools.
 
+    The following are numeric math-like variables of proper syntax of Quantum Language assigned to the 
+    9 aspects of sentence construction.
     ___________________________________
     
-    0 = CONJUNCTION
-    1 = ADVERB
-    2 = VERB
-    3 = ADJECTIVE
-    4 = PRONOUN
-    5 = [PRE]POSITION
-    6 = [AR]TICLE
-    7 = NOUN
-    8 = PAST-TIME
-    9 = FUTURE-TIME
-    
+        0 = CONJUNCTION
+        1 = ADVERB
+        2 = VERB
+        3 = ADJECTIVE
+        4 = PRONOUN
+        5 = [PRE]POSITION
+        6 = [AR]TICLE
+        7 = NOUN
+        8 = PAST-TIME
+        9 = FUTURE-TIME
     ____________________________________
     
     1 = ADVERB = NO-CONTRACT, 
@@ -56,5 +57,20 @@ This Mathematical Interface For Language will help those building correct senten
     PRA, PRE, PRI, PRO, PRU, ETC.,= VOID-TIME-HAS NO-JURISDICTION, 
     OPINION, GUESS, TRIAL, EXPERIMENT, VOID OF CONCLUSIONS OR FACTS. 
 
+    PREPOSITIONAL PHRASE: DANGLING PARTICIPLE: 
+    You can't end a sentence in a verb and have it be correct, otherwise the sentence is "unfinished." 
 
-The Math Interface on Language helps anyone that wants to write in the correct communication  with Mathematical precision eliminating subjective interpretation;.
+    ___________________________________________
+    
+The Math Interface on Language helps anyone that wants to write in the 
+correct sentence structure communication syntax with Mathematical precision eliminating subjective interpretation.
+
+All law is based upon "adverb-verb" 
+(descriptive or rhetorical versus factual) and when such errors are pointed out with proper syntax 
+then Judges, Attorneys, and other Officers of the Court have no choice but to recuse themselves and/or 
+drop all charges or face criminal charges themselves.
+
+QUANTUM-LANGUAGE-PARSE-SYNTAX-GRAMMAR is the technology made possible through the Math Interface on Language first discovered by :David-Wynn: Miller.
+All credit for the discovery of the Math Interface on Language is credited to :David-Wynn: Miller.
+
+Translation of the Math Interface into computer source code for use in software applications is credited to :Patrick-Joseph: Lismore.
