@@ -67,9 +67,15 @@ This Mathematical Interface For Language will help those building correct senten
 The Math Interface on Language helps anyone that wants to write in the 
 correct sentence structure communication syntax with Mathematical precision eliminating subjective interpretation.
 
+Logic, as it is used in mathematics, is a way of expressing as accurate a statement as possible for 
+both the person whom is expressing themselves as well as the person whom is receiving the communication.  
 Effective communication depends upon the I.Q. level of both people involved in the exchange of information. 
 Unnecessary argument takes place when one of the two people communicating misinterprets or misunderstands 
 the other's level of attention to detail.
+
+By writing a document/contract/treaty with the correct-sentance-structure-communication-syntax 
+where each sentance can be mathematically verified frontward and backward it leaves no room for any party to the contract/treaty
+to have any subjective interpretations as to the meaning of a sentance and the words used. 
 
 All law is based upon "adverb-verb" sentence structure communication syntax
 (descriptive or rhetorical versus factual) and when such errors are pointed out with proper syntax 
