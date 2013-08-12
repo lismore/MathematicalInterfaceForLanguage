@@ -65,7 +65,7 @@ This Mathematical Interface For Language will help those building correct senten
 The Math Interface on Language helps anyone that wants to write in the 
 correct sentence structure communication syntax with Mathematical precision eliminating subjective interpretation.
 
-All law is based upon "adverb-verb" 
+All law is based upon "adverb-verb" sentence structure communication syntax
 (descriptive or rhetorical versus factual) and when such errors are pointed out with proper syntax 
 then Judges, Attorneys, and other Officers of the Court have no choice but to recuse themselves and/or 
 drop all charges or face criminal charges themselves.
