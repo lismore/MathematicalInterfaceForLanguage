@@ -24,6 +24,8 @@ This Mathematical Interface For Language will help those building correct senten
         9 = FUTURE-TIME
     ____________________________________
     
+    0 = CONJUNCTION: AND/OR, NEUTRAL-VALUE, NO-MODIFICATION.
+    
     1 = ADVERB = NO-CONTRACT, 
     MODIFIER=CHANGE=MOTION=ACTION=FICTION = 1>1>1, 1>2, 1>3>4, 4<1>2, 4<1>3><4<1>2-DPV=DANGLING-PARTICIPAL-VERB. 
     "NO" = POSITION-MODIFICATION-AUTHORITY. = PERJURY 
