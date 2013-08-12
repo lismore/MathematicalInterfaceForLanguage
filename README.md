@@ -67,6 +67,10 @@ This Mathematical Interface For Language will help those building correct senten
 The Math Interface on Language helps anyone that wants to write in the 
 correct sentence structure communication syntax with Mathematical precision eliminating subjective interpretation.
 
+Effective communication depends upon the I.Q. level of both people involved in the exchange of information. 
+Unnecessary argument takes place when one of the two people communicating misinterprets or misunderstands 
+the other's level of attention to detail.
+
 All law is based upon "adverb-verb" sentence structure communication syntax
 (descriptive or rhetorical versus factual) and when such errors are pointed out with proper syntax 
 then Judges, Attorneys, and other Officers of the Court have no choice but to recuse themselves and/or 
