@@ -73,4 +73,4 @@ drop all charges or face criminal charges themselves.
 QUANTUM-LANGUAGE-PARSE-SYNTAX-GRAMMAR is the technology made possible through the Math Interface on Language first discovered by :David-Wynn: Miller.
 All credit for the discovery of the Math Interface on Language is credited to :David-Wynn: Miller.
 
-Translation of the Math Interface into computer source code for use in software applications is credited to :Patrick-Joseph: Lismore.
+Translation of the Mathematical Interface for Language into computer source code for use in software applications is credited to :Patrick-Joseph: Lismore.
