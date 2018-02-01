@@ -2,7 +2,7 @@ class MathInterface : public ICore{
 public:
   virtual ~getInterface();
   virtual void GetPartsOfGrammar();
-private:
+public:
 enum MathInterface
 {
    "CONJUNCTION" = 0,
